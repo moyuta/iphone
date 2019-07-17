@@ -1,0 +1,367 @@
+{
+    "app":{
+        "name":"Addiction"
+    },
+    "loading":{
+        "awaitingnetwork":"Awaiting Network Connection"
+    },
+    "tandc":{
+        "title":"Terms and Conditions"
+    },
+    "congession":{
+        "title":"Congestion degree",
+        "people":"People",
+        "entry_notice":"Please check the entry restriction information at Home> WEB> Twitter when crowded.",
+        "entry_notice_title":"Entrance notice",
+        "everyones_entry_notice_title":"View everyone's entry notice status",
+        "people_stays":"Number of stays"
+    },
+    "in_store":{
+        "title":"Locker usage",
+        "subtitle":"You can check the profile of the user with the touch"
+
+    },
+    "entryNotice":{
+        "title":"Entrance notice"
+    },
+    "entryRegister":{
+        "title":"Give notice of entering a store",
+        "apply_twill":"Applying twill allocation",
+        "scheduled_date":"Scheduled entry time"
+    },
+    "entryList":{
+        "title":"Congestion forecast"
+    },
+    "availablity":{
+        "title":"Availablity Check"
+    },
+    "arrival":{
+        "title":"Arrival Check"
+    },
+    "intro": {
+            "slides": {
+              "one": {
+                "title": "Thank you",
+                "text": "Thank you for installing the ADDICTION app. ADDICTION is an application-driven cruising space, the industry's first attempt."
+              },
+              "two": {
+                "title": "Easy Access",
+                "text": "If you are a registered member, just enter the store just by holding the app."
+              },
+              "three": {
+                "title": "Check Store Status",
+                "text": "<First in the industry> app can check the situation in the store. Let's check what people are in the store!"
+              },
+              "four": {
+                "title": "Meet the Right Person",
+                "text": "You can view other people's entry notice information. Let's enter the store when there are people who are interested!"
+              },
+              "five": {
+                "title": "Suitable for return from work!",
+                "text": "Kitaumeda is a good location & back alley, so you can enter the store without worrying about the eyes around it. Perfect for Lehman on your way home from work!"
+              },
+              "six": {
+                "title": "Can meet new people!",
+                "text": "Because we have support for various languages ​​and a thorough beginner support system, we will surely be able to meet new people!"
+              },
+              "seven": {
+                "title": "Clean, Safe and Secure",
+                "text": "Dedicated facilities. Good amenities. Above all, clean, secure and secure."
+              },
+              "eight": {
+                "title": "Let's get started",
+                "text": "Click to see the rules that persist"
+              }
+            }
+          },    
+    "login":{
+        "title":"Login",
+        "username":"Email ID",
+        "password":"Password",
+        "errors":{
+            "invalid_email":"Invalid Email ID",
+            "user_not_found":"Your Email ID is not yet Registered",
+            "invalid_password":"Incorrect Password",
+            "noEmail":"Please Enter a valid Email ID",
+            "noPassword":"Please Enter a valid Password"
+        }
+    },
+    "register":{
+        "title":"Register",
+        "selectdate":"Select Date of Birth",
+        "incomplete":"Please check all the fields.",
+        "nickname":"Nickname",
+        "email":"Email",
+        "password":"Password",
+        "dob":"Date of Birth",
+        "height":"Height",
+        "cms":"CMS",
+        "weight":"Weight",
+        "kg":"KG",
+        "id":"Identity No"
+    },
+    "questions":{
+        "title":"Please support simple questionnaires to support beginners.",
+        "questions":{
+            "one":{
+                "title":"Is the first time to pay Hatten?"
+            },
+            "two":{
+                "title":"Do you have any questions?"
+            },
+            "three":{
+                "title":"We look forward to your visit.",
+                "subtitle":"Identification is required for this registration."
+            },
+            "four":{
+                "title":"Would you like to be explained by the staff?."
+            },
+            "five":{
+                "title":"The Staff will speak on the day",
+                "subtitle":"Please note that the order of guidance will change."
+            },
+            "six":{
+                "title":"Do you check the beginner's manual?"
+            },
+            "seven":{
+                "title":"What kind of point is unknown?"
+            }
+        }
+    },
+    "dashboard":{
+        "title":"Dashboard",
+        "tabs":{
+            "tabone":{
+                "title":"Information",
+                "access":"Access",
+                "stayTime":"Stay Time",
+                "guide":"Guide",
+                "currentFee":"Current Fee",
+                "display":"(Event free display)"
+            },
+            "tabtwo":{
+                "title":"Web"
+            },
+            "tabthree":{
+                "title":"Map",
+                "methods":{
+                    "byTrain":{
+                        "title":"<If you come by train>",
+                        "instructions":{
+                            "1":"800m from Hankyu Umeda Station",
+                            "2":"800 m from Doyama-cho"
+                        }
+                    },
+                    "byCar":{
+                        "title":"<If you come by car>",
+                        "instructions":{
+                            "1":"00 m from the nearest parking lot",
+                            "2":"From cheap parking lot ○ ○ m"
+                        }
+                    },
+                    "byCycle":{
+                        "title":"<If you come by bicycle>",
+                        "instructions":{
+                            "1":"・ From the nearest bicycle parking lot ○ ○ m"
+                        }
+                    }
+                }
+            },
+            "tabfour":{
+                "title":"Notes"
+            },
+            "tabfive":{
+                "title":"QR Code",
+                "showstaff":"Please show the staff when you enter the store."
+            }
+        }
+    },
+    "index":{
+        "title":"Home",
+        "event_style":"Today's event & style",
+        "business_hours":"Business Hours"
+    },
+    "rules":{
+        "title":"Home",
+        "rules_of_arrival": "Rules at Visit",
+        "items": {
+          "1": "Please do not enter and move in the field with \"naked and exposed areas \".",
+          "2": "Use of drugs (whether illegal or legal) and alcohol are strictly prohibited.",
+          "3": "Please do not perform sexual provocation or public depiction in places other than private rooms.",
+          "4": "Up to 2 people in a private room! Lock it up and use it.",
+          "5": "Please note that people under 18 and high school students can not use it.",
+          "6": "Please manage your valuables by yourself.",
+          "7": "Let's enjoy and come home from here!"
+        }
+    },
+    "functions":{
+        "title":"App Features"
+    },
+    "stamp":{
+        "title":"Stamp confirmation",
+        "save_15":"Save 15 pieces and get 1 free!",
+        "no_expiry":"There is no expiration date!",
+        "one_stamp_per_visit":"One stamp is stored at one visit."
+    },
+    "inquiry":{
+        "title":"Inquiry / Report",
+        "inqury":"Inquiry (request also here!)",
+        "contact_fone":"Contact by phone"
+    },
+    "others":{
+        "title":"Others"
+    },
+    "fees":{
+        "title":"Fees",
+        "uniform":"Uniform",
+        "age_discount":"Age Discount",
+        "fees_list" :{
+            "zero":{
+                "title":"18-19 years old",
+                "fee":1200
+            },
+            "one":{
+                "title":"20-22 years old",
+                "fee":1300
+            },
+            "two":{
+                "title":"23 years old",
+                "fee":1400
+            },
+            "three":{
+                "title":"24 to 29 years old",
+                "fee":1500                
+            },
+            "four":{
+                "title":"30-34 years old",
+                "fee":1600
+            }
+        },
+        "special_discount":"Special discount",
+        "discounts":{
+            "one":{
+                "title":"It breaks according to the number of followers!",
+                "value":"Tweed 1500 ¥ 1000 ¥ Tweed 3000 ¥ 800"
+            },
+            "two":{
+                "title":"Broken by the number of followers! (Ero 垢 also OK)",
+                "value":"Tweed 1500 ¥ 1000 ¥ Tweed 3000 ¥ 800"
+            },
+            "three":{
+                "title":"Erotic 垢 4K 1000 yen Erotic 8 k 800 yen (It is broken if the staff judges that it is an event!)",
+                "value":"Twink 1000 yen Special twink 700 yen"
+            },
+            "four":{
+                "title":"Those who can break up their abdominal muscles, those who come with two people will crack!",
+                "value":"Abdominal muscle discount 1000 yen Couple discount 1200 yen"
+            },
+            "five":{
+                "title":"It is divided by the early entrance!",
+                "value":"Early Booking (~ 17: 00) 1000 Yen Early Booking (~ 15: 00) 700 Yen"
+            },
+            "six":{
+                "title":"Fri, Sat, 70 minutes only on the night before the holiday!"
+            },
+            "seven":{
+                "title":"Satisfy the conditions at the event and discount!",
+                "value":"Event fee 1000 yen"
+            },
+            "eight":{
+                "title":"It is divided by the first visit after member registration!",
+                "value":"First member registration rate 500 yen"
+            },
+            "nine":{
+                "title":"First member registration",
+                "value":"500 yen"
+            },
+            "ten":{
+                "title":"It is broken by entering notice!",
+                "value":"100% discount on admission notice"
+            }
+        }
+    },
+    "settings":{
+        "title":"Settings",
+        "notification_settings":"Notification Settings",
+        "messageFromStore":"Message from the store (Such as event notification)",
+        "when_user_enters":"When another user enters the store"
+    },
+    "profile":{
+        "title":"Profile",
+        "set_public_info":"Setting public information to other users",
+        "adaptive_notice":"If you make the age and discount adaptation information private, you will not receive the discount.",
+        "set_adaptive_info":"Adaptive discount information"
+    },
+    "support":{
+        "title":"Support/Enquiry",
+        "nickname":"Nickname",
+        "enq_contents":"Inquiry contents"
+    },
+    "manual":{
+        "title":"Beginner's Guide",
+        "contNe":"ADDICTION is a cruising space for people aged 18-34. There is no such restriction as \"○○ system limited\", so it can be enjoyed by various people. (However, there is a possibility that the entrance of the unsanitary person and the person who judged that the staff is inappropriate may be refused.) As we check the ID card and perform age confirmation, you can use it with peace of mind !",
+        "guide":{
+            "Before":"Before entering the store",
+            "Receptionist":"Receptionist",
+            "in_store":"During in-store",
+            "Advanced":"Advanced",
+            "AwayOut":"Away out",
+            "Retirement":"Retirement",
+            "thankYou":"Thank you very much! ",
+            "ApprochMethod":"★ Recommended approach method ★",
+            "2":"(Sun) Check the location and appearance of the shop on the website etc.",
+            "3":"(Mon) Let's complete member registration with the application.",
+            "4":"(Tuesday) Get notice of entering the store and get discounts!",
+            "5":"(Wed) Let's enter the store! (Don't forget your ID card)",
+            "6":"(Day) Let's show the membership card and the identification card you have on the app.",
+            "7":"(Mon) If there is a special discount you want, please contact the staff. (Age discount is applied automatically.)",
+            "8":"(Tuesday) Let's pay the price shown and receive the key.",
+            "9":"(Wed) Change clothes towards the locker. (Please follow the day's announcement for the style.)",
+            "10":"Tachi: Right hand Uke: Left hand River: Right foot Back NG: Left foot",
+            "11":"(Fri) Please feel free to contact the staff if you have any questions.",
+            "12":"(Sun) The smell of sweat is the original disliked! Let's take a shower first. (ADDICTION has unlimited use of towels!)",
+            "13":"(Mon) Take a shower and go around the shop. Find out if there is a type of person.",
+            "14":"(Tuesday) If there is a type of person, let's take an approach.",
+            "15":"STEP1> We aim at eye contact with person of type",
+            "16":"STEP2> There is a high possibility that there is a pulse if the eyes meet several times. Let's lightly touch each other.",
+            "17":"STEP3> If the other person feels like it will respond, let's move to the private room after that.",
+            "18":"Speak directly when you are in the rest room. There are many people who like to talk..",
+            "19":"Let's touch and try again if there is no reaction. (It may be disliked, so keep it a couple of times.)",
+            "20":"※important※ If not, let's go to the next person without concern!",
+            "21":"(Wednesday) If there is no type of person, let's take a break in the store or open the app and check what kind of people will come in the future with the entry notice function / store confirmation function.",
+            "22":"(Sun) ADDICTION is free to go out on the way.",
+            "23":"(Sun) It is recommended to take a shower when you go home.",
+            "24":"(Mon) Wear clothes and take the locker luggage and head to the reception. (Please be careful of forgotten things!)",
+            "25":"(Tues) If no extension fee has occurred, you can return home as it is."
+        }
+    },
+    "common":{
+        "english":"English",
+        "japaneese":"日本人",
+        "chineese":"中文",
+        "language":"Language",
+        "fees":"Fees",
+        "login":"Login",
+        "signup":"Signup",
+        "email":"Email",
+        "support_enquiry":"Support/Enquiry",
+        "yen":"Yen",
+        "yes":"Yes",
+        "no":"No",
+        "help":"If you forgot, click here",
+        "height":"Height",
+        "age":"Age",
+        "weight":"Weight",
+        "active":"Active",
+        "logout":"Logout",
+        "confirm_logout":"Do you want to log out?",
+        "confirm_resign":"Do you want to resign?",
+        "resign":"Resign",
+        "resign_notice":"If you resign, you will need your ID card to register again. In addition, the acquired stamp and discount information will be deleted.",
+        "confirm":"Confirm",
+        "cancel":"Cancel",
+        "in_store_info":"In-store information",
+        "inactive":"Inactive"
+
+    }
+}
